@@ -1,52 +1,34 @@
 # Site settings 配置站点
-title: 'Lynn'
+title: 'Lynn Yang'
 description: 'blog'
 keywords: 'Lynn Yang, miss1'
 url: 'https://miss1.github.io/' # your host
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
-  首页: '/'
-  标签: '/tags/'
-  时间线: '/timeline/'
-  关于博主: '/about/'
-  友情链接: '/friendLink/'
+  Introduction: '/'
+  Experience: '/experience/'
+  Code: '/codeLink/'
 
 # 博主
 author: true
 name: 'Lynn Yang'
-NickName: '团子先生'
-webtitle: '是团子先生啊'
+NickName: 'Lynn'
+webtitle: 'Lynn'
 bio: 'yes!'
 about: true
-aboutyou: 'your introduction'
-portraits: '/assets/profile.jpeg' # your portraits image file path
+aboutyou: 'Graduated from Hainan Normal University with a major in software engineering in 2017.One year of Android development experience, three years of front-end development experience.Love mountain climbing and switch games.'
+portraits: '/assets/profile.png' # your portraits image file path
 
 # SNS
 SNS: true
-SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  mail: 'mailto:abc@gmail.com'
-  weixin: '' # 你的微信二维码存放的地址
-  qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
-  github: ''
-  Codepen: ''
-  weibo: ''
-  instagram: ''
-  Twitter: ''
-  Dribbble: ''
-  Facebook: ''
-  Google: ''
-  zhihu: ''
-  juejin: ''
-  twitch: ''
-
-# 分页
-paginate: 2
-paginatepath: ['page:num']
+SNS-icon: #['github']
+  mail: 'mailto:yangll2525@163.com'
+  github: 'https://github.com/miss1'
 
 # since
 footer:
-  since: 2018
+  since: 2017
 
 # Markdown
 markdown: kramdown
@@ -60,20 +42,6 @@ pygmentsTheme: 'default'
 # 友情链接
 friends:
   jekyll: 'https://www.jekyll.com.cn/'
-
-# 评论 最佳体验 在disqus、livere和Gitment之间三选一
-# disqus 评论
-disqus: false
-disqus_url: '' # https://abc.disqus.com/embed.js
-# 来必力评论
-livere: true
-livere_uid: 'MTAyMC8zNDI2OS8xMDgwNg==' # MTAyMC8zNDI2OS8xMDgwNg==
-# Gitment评论 OAuth Application
-Gitment: false
-Gitment_owner: ''  # github用户名
-Gitment_repo: ''  # github博客存放的仓库名
-client_id: ''  # 注册 OAuth Application 后获得的 client_id
-client_secret: ''  # 注册 OAuth Application 后获得的 client_secret
 
 # Share : weibo, qq, wechat, tencent, douban, qzone, linkedin, diandian, facebook, twitter, google
 social-share: true
