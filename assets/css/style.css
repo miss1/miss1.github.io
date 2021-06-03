@@ -933,7 +933,7 @@ a{
 /*pc端*/
 .left-time{
   display: inline-block;
-  width: 27%;
+  width: 35%;
   height: auto;
   /*background-color: blue;*/
   margin-top: -4px;
@@ -941,7 +941,7 @@ a{
 }
 .right-name{
   display: inline-block;
-  width: 63%;
+  width: 55%;
   height: auto;
   /*background-color: red;*/
   margin-top: -4px;
@@ -999,7 +999,8 @@ a{
           transition-duration: .5s;
 }
 .timemain{
-  display: block;
+  display: flex;
+  align-items: center;
   overflow: hidden;
   /*line-height: 40px;*/
   font-size: 15px;

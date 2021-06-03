@@ -1,11 +1,10 @@
 ---
 layout: post
-title: 'Hello Jekyll'
-date: 2017-04-18
-author: Jekyll
+title: "怪星球科技（深圳）有限公司"
+dateStart:   2018-07-20 09:30:00 +0800
+dateEnd:   2019-08-20 18:30:00 +0800
 color: rgb(255,210,32)
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
-tags: jekyll
 ---
 
 > Transform your plain text into static websites and blogs.
