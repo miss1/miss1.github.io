@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 项目链接
+title: Project
 page-title: projectLinks
-home-title: This is my project demos.
+home-title: This is my private project demos.
 description:
 ---
 
@@ -11,14 +11,17 @@ description:
 <main>
     {% include title.html %}
     <ul class="ex-list">
+      {% for demo in site.codeDemo %}
         <li  class="fadeInUp animated">
-          {% for friend in site.friends %}
-            <span class="tag-name" >
-                <a href="{{ friend[1] }}">「&emsp;{{ friend[0] }}&emsp;」</a>
-            </span>
-                </br>
-          {% endfor %}
+            <span class="tag-name" ><a href="{{ demo[1][0] }}">「&emsp;{{ demo[0] }}&emsp;」</a></span>
+            </br>
+            <span>{{demo[1][1]}}</span>
+            {% if demo[1][2] %}
+            </br>
+            <span class="tag-link"><a href="{{demo[1][2]}}" target="_blank">∞ Preview ∞</a></span>
+            {% endif %}
         </li>
+      {% endfor %}
     </ul>
 </main>
 {% include footer.html %}

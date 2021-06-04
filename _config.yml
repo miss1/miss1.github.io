@@ -39,9 +39,12 @@ highlighter: rouge
 # 代码高亮主题使用pygments主题: autumn\ default\ emacs\ friendly\ manni\ murphy\ pastie\ perldoc\ tango 任选一个你喜欢的主题名称填在下面的单引号中
 pygmentsTheme: 'default'
 
-# 友情链接
-friends:
-  jekyll: 'https://www.jekyll.com.cn/'
+# Code Demo
+codeDemo:
+  My LeetCode: ['https://github.com/miss1/myLeetCode', '个人LeetCode做题题解']
+  Puzzle: ['https://github.com/miss1/puzzle', 'H5实现拼图游戏', '']
+  HappyWeatherH5: ['https://github.com/miss1/HappyWeatherH5', '毕设天气预报H5版', '']
+  HappyWeatherAndroid: ['https://github.com/miss1/HappyWeather', '毕业设计安卓原生']
 
 # Share : weibo, qq, wechat, tencent, douban, qzone, linkedin, diandian, facebook, twitter, google
 social-share: true

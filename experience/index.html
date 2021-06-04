@@ -42,7 +42,11 @@ description:
             <div class="timeANDname">
               <a href="{{ post.url }}"><span class="timeANDname-san"></span><span class="timeANDname-main"><sapn class="timeANDnamemain">
                   {{ post.title }}
-                  <time class="timeline-data" datetime="{{ post.date | date:"%y-%m-%d" }}">{{ post.date | date: "%Y-%m-%d" }}</time>
+                  {% if post.dateEnd %}
+                  <time class="timeline-data" datetime="{{ post.dateStart | date:"%y-%m-%d" }}">{{ post.dateStart | date: "%Y-%m-%d" }}&nbsp;-&nbsp;{{ post.dateEnd | date: "%Y-%m-%d" }}</time>
+                  {% else %}
+                  <time class="timeline-data" datetime="{{ post.dateStart | date:"%y-%m-%d" }}">{{ post.dateStart | date: "%Y-%m-%d" }}&nbsp;-&nbsp;today</time>
+                  {% endif %}
               </sapn></span></a>
             </div>
           {% endfor %}

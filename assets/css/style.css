@@ -470,10 +470,19 @@ a{
   -webkit-transition-duration: .5s;
           transition-duration: .5s
 }
-.tag-name a:hover{
+.tag-name a:hover,.tag-link a:hover{
   color: #f15b6c;
   -webkit-transition-duration: .3s;
           transition-duration: .3s
+}
+.tag-link {
+    display: block;
+    margin-top: 10px;
+}
+.tag-link a{
+    color: #409eff;
+    -webkit-transition-duration: .5s;
+            transition-duration: .5s
 }
 .tag-post{
   display: block;
