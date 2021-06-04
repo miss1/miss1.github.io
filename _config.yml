@@ -42,8 +42,8 @@ pygmentsTheme: 'default'
 # Code Demo
 codeDemo:
   My LeetCode: ['https://github.com/miss1/myLeetCode', '个人LeetCode做题题解']
-  Puzzle: ['https://github.com/miss1/puzzle', 'H5实现拼图游戏', '']
-  HappyWeatherH5: ['https://github.com/miss1/HappyWeatherH5', '毕设天气预报H5版', '']
+  Puzzle: ['https://github.com/miss1/puzzle', 'H5实现拼图游戏', '/outLinkPage/puzzle/']
+  HappyWeatherH5: ['https://github.com/miss1/HappyWeatherH5', '毕设天气预报H5版']
   HappyWeatherAndroid: ['https://github.com/miss1/HappyWeather', '毕业设计安卓原生']
 
 # Share : weibo, qq, wechat, tencent, douban, qzone, linkedin, diandian, facebook, twitter, google
