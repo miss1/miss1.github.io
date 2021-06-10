@@ -5,26 +5,45 @@ dateStart:   2018-07-20 09:30:00 +0800
 dateEnd:   2019-08-20 18:30:00 +0800
 color: rgb(255,210,32)
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+subtitle: '2018 - 2019'
 ---
 
-> Transform your plain text into static websites and blogs.
+> 18年离开海口来到深圳，进的第一家公司。公司不大，就只有我一个前端，所以这段时间都是一个人开发前端项目。有时前端工作少，偶尔还会帮助安卓同事参与安卓开发。
 
-# Welcome
+### 亨斯迈线上展厅项目
 
-## Welcome
+**项目描述**
 
-### Welcome
+亨斯迈中国全景展厅，亨斯迈中国公众号菜单栏入口，以全景图的方式360度展示整个展厅，使用户不用亲临现场，直接打开网页就能详细了解整个展厅样貌。
 
-This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such as getting your site up and running, creating and managing your content, customizing the way your site works and looks, deploying to various environments, and give you some advice on participating in the future development of Jekyll itself.
+**技术栈**
 
-### So what is Jekyll, exactly?Permalink
+krpano，canvas
 
-Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like [Markdown](https://daringfireball.net/projects/markdown/)) and our [Liquid](https://github.com/Shopify/liquid/wiki) renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.
+**个人角色**
 
-### Helpful HintsPermalink
+1、前期做技术调研，结合具体需求及用户体验考虑，在比较了a-frame、threejs和krpano等框架后，决定采用krpano框架进行开发。
 
-Throughout this guide there are a number of small-but-handy pieces of information that can make using Jekyll easier, more interesting, and less hazardous. Here’s what to look out for.
+2、使用krpano搭建整个项目框架，完成相应的交互操作开发。
 
-### Video Test
+3、使用canvas绘制序列帧的方式完成开场动画及页面上的一些动画效果。
 
-<iframe type="text/html" width="100%" height="385" src="http://www.youtube.com/embed/gfmjMWjn-Xg" frameborder="0"></iframe>
+PS：项目地址（需在微信端打开） [亨斯迈线上展厅](https://hengsimai.x2mt.com/tour/tour.html)
+
+### 亨怪星球科技官网开发
+
+**项目描述**
+
+怪星球科技官方网站，支持多种语言，介绍公司信息，公司产品，公司参与的项目等信息。
+
+**技术栈**
+
+vuejs，canvas，Animate.css
+
+**个人角色**
+
+1、使用vuejs开发项目，使用luxy.js实现带滚动惯性的视觉差效果
+
+2、使用canvas和Animate.css实现页面上的动画特效；使用i18n实现国际化
+
+3、独立完成整个项目，兼容移动端和电脑端

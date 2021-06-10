@@ -5,24 +5,41 @@ dateStart:   2016-12-01 08:30:00 +0800
 dateEnd:   2018-06-30 17:30:00 +0800
 color: rgb(255,90,90)
 cover: '../assets/test.png'
-subtitle: 'Welcome to Jekyll!'
+subtitle: '2016 - 2018'
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+> 从2016年底就在海南民航凯亚有限公司实习，到17年毕业之后转正，直到2018年打算离开海口了才提了离职。
 
-Jekyll also offers powerful support for code snippets:
+### 海航微信端机票+酒店打包销售项目开发维护
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+**项目描述**
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+海南航空移动端机票+酒店打包销售项目，海南航空公众号菜单栏入口，实现机票+酒店的打包销售，一站式服务，用户使用微信就能完成机票和酒店的预定。
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+**技术栈**
+
+SUI Mobile，knockout.js，Jquery，zepto.js
+
+**个人角色**
+
+负责航班选择、酒店选择、申请邮寄发票等模块的日常开发维护
+
+PS：项目地址 [海航机酒项目](https://h.hnair.com/hainanair/HotelTRPH5/template/hotelTicket.html)
+
+###飞航地服微信商城
+
+**项目描述**
+
+飞航地服商城是主要面向机场待机旅客的购物网站，飞航地服公众号菜单栏入口，旅客可在页面上购买快速登机、接送机等地面服务，方便快捷。
+
+**技术栈**
+
+Jquery，js-sdk，rem
+
+**个人角色**
+
+1、使用html5+jquery+ajax前后端分离的方式完成部分页面的开发。
+
+2、使用js-sdk配合后台完成微信授权登陆、微信分享、二维码扫描验单等功能。
+
+3、使用rem完成移动端的屏幕适配。

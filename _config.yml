@@ -47,8 +47,8 @@ codeDemo:
   HappyWeatherAndroid: ['https://github.com/miss1/HappyWeather', '毕业设计安卓原生']
 
 # Share : weibo, qq, wechat, tencent, douban, qzone, linkedin, diandian, facebook, twitter, google
-social-share: true
-social-share-items: ['qq', 'wechat', 'weibo', 'twitter', 'facebook']
+# social-share: true
+# social-share-items: ['qq', 'wechat', 'weibo', 'twitter', 'facebook']
 
 # 百度统计 在baidu-url里填写自己相关的url代码
 baidu: true
