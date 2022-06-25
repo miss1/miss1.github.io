@@ -2,7 +2,7 @@
 layout: default
 title: Project
 page-title: projectLinks
-home-title: This is my private project demos.
+home-title: This is my private code.
 description:
 ---
 
@@ -13,7 +13,7 @@ description:
     <ul class="ex-list">
       {% for demo in site.codeDemo %}
         <li  class="fadeInUp animated">
-            <span class="tag-name" ><a href="{{ demo[1][0] }}">「&emsp;{{ demo[0] }}&emsp;」</a></span>
+            <span class="tag-name" ><a href="{{ demo[1][0] }}" target="_blank">「&emsp;{{ demo[0] }}&emsp;」</a></span>
             </br>
             <span>{{demo[1][1]}}</span>
             {% if demo[1][2] %}

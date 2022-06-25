@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Seattle University",
+    "dateStart": "2022-09-21 08:30:00 +0800",
+    "dateEnd": "2024-06-01 08:30:00 +0800",
+    "content": "Computer Science"
+  },
+  {
+    "title": "TRUELITE TRACE (SHENZHEN) INC LIMITED",
+    "dateStart": "2019-10-01 08:30:00 +0800",
+    "dateEnd": "2022-08-31 08:30:00 +0800",
+    "content": "Front-end Development Engineer"
+  },
+  {
+    "title": "STRANGE UNIVERSE TECHNOLOGY (SHENZHEN) INC LIMITED",
+    "dateStart": "2018-07-20 09:30:00 +0800",
+    "dateEnd": "2019-08-20 18:30:00 +0800",
+    "content": "H5 Development Engineer"
+  },
+  {
+    "title": "HAINAN CIVIL AVIATION CARES INC LIMITED",
+    "dateStart": "2016-12-01 08:30:00 +0800",
+    "dateEnd": "2018-06-30 17:30:00 +0800",
+    "content": "Front-end Development Engineer"
+  },
+  {
+    "title": "Hainan Normal University",
+    "dateStart": "2013-09-01 08:30:00 +0800",
+    "dateEnd": "2017-07-01 17:30:00 +0800",
+    "content": "Software Engineering"
+  }
+]

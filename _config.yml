@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: 'Lynn Yang'
 description: 'blog'
-keywords: 'Lynn Yang, miss1'
+keywords: 'Lynn Yang, Liling Yang, miss1'
 url: 'https://miss1.github.io/' # your host
 
 # nav 中文字符空格：&emsp;
@@ -9,15 +9,16 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
   Introduction: '/'
   Experience: '/experience/'
   Code: '/codeLink/'
+  Notes: '/notes/'
 
 # 博主
 author: true
-name: 'Lynn Yang'
+name: 'Liling Yang'
 NickName: 'Lynn'
 webtitle: 'Lynn'
 bio: 'yes!'
 about: true
-aboutyou: 'Graduated from Hainan Normal University with a major in software engineering in 2017.One year of Android development experience, three years of front-end development experience.Love mountain climbing and switch games.'
+aboutyou: 'I have one year of Android development experience and four years of front-end development experience. Now I''m studying at Seattle University in Computer Science for my Master''s degree.'
 portraits: '/assets/profile.png' # your portraits image file path
 
 # SNS
@@ -41,10 +42,10 @@ pygmentsTheme: 'default'
 
 # Code Demo
 codeDemo:
-  My LeetCode: ['https://github.com/miss1/myLeetCode', '个人LeetCode做题题解']
-  Puzzle: ['https://github.com/miss1/puzzle', 'H5实现拼图游戏', '/outLinkPage/puzzle/']
-  HappyWeatherH5: ['https://github.com/miss1/HappyWeatherH5', '毕设天气预报H5版', '/outLinkPage/weather/html/index.html']
-  HappyWeatherAndroid: ['https://github.com/miss1/HappyWeather', '毕业设计安卓原生']
+  My LeetCode: ['https://github.com/miss1/leetcode-7', 'My problem solving record in Leetcode']
+  Puzzle: ['https://github.com/miss1/puzzle', 'Implementing a Jigsaw Puzzles Game with Html5', '/outLinkPage/puzzle/']
+  HappyWeatherH5: ['https://github.com/miss1/HappyWeatherH5', 'Weather forecast (mobile web)', '/outLinkPage/weather/html/index.html']
+  HappyWeatherAndroid: ['https://github.com/miss1/HappyWeather', 'Weather forecast (android)']
 
 # Share : weibo, qq, wechat, tencent, douban, qzone, linkedin, diandian, facebook, twitter, google
 # social-share: true

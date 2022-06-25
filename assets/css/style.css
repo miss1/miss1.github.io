@@ -947,6 +947,7 @@ a{
   /*background-color: blue;*/
   margin-top: -4px;
   padding: 20px 6px;
+  cursor: default;
 }
 .right-name{
   display: inline-block;
@@ -956,6 +957,7 @@ a{
   margin-top: -4px;
   padding: 20px 10px;
   border-left: 1px solid #e7eaf1;
+  cursor: default;
 }
 .lefttime-san{
   display: block;
@@ -1025,7 +1027,6 @@ a{
   color: #555;
   line-height: 40px;
   margin-right: 0;
-  cursor: pointer;
 }
 .timefont:hover{
   color: #f15b6c;
