@@ -1,6 +1,6 @@
 ---
 layout: resume
-permalink: '/resume'
+permalink: /resume
 title: Resume
 page-title: Resume
 home-title: Personal Resume
