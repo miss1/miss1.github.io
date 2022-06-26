@@ -9,6 +9,7 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
   Introduction: '/'
   Experience: '/experience/'
   Code: '/codeLink/'
+  Resume: '/resume/'
 
 # 博主
 author: true
@@ -18,7 +19,7 @@ webtitle: 'Lynn'
 bio: 'yes!'
 about: true
 aboutyou: 'I have one year of Android development experience and four years of front-end development experience. Now I''m studying at Seattle University in Computer Science for my Master''s degree.'
-portraits: '/assets/profile.png' # your portraits image file path
+portraits: '/assets/profile.jpg' # your portraits image file path
 
 # SNS
 SNS: true
