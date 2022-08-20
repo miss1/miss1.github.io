@@ -9,40 +9,40 @@
     <link type="text/css" rel="stylesheet" href="main.min.css"/>
 
     <script type="text/javascript" src="jquery-3.1.1.min.js"></script>
-    <script src="bmob-min.js"></script>
     <script type="text/javascript" src="main.min.js"></script>
 </head>
 <body>
-    <!--头部-->
-    <div id="game_hrader">
-        <img src="img/back.png">
-        <span>PuzzleGame</span>
+<!--头部-->
+<div id="game_hrader">
+    <img src="./img/back.png">
+    <span>PuzzleGame</span>
+</div>
+<!--头部结束-->
+<!--中间游戏部分-->
+<div id="game_content">
+    <div id="imgArea"></div>
+    <div id="game_reward"><span id="game_reward_tips">Tips：</span><span id="gameAnswer"></span></div>
+</div>
+<div id="game_c">
+    <div id="game_control">
+        <span id="btn">开始</span>
+        <span id="level">level: 3x3</span>
+        <span id="scroe">步数：0</span>
     </div>
-    <!--头部结束-->
-    <!--中间游戏部分-->
-    <div id="game_content">
-        <div id="imgArea"></div>
-        <div id="game_reward"><span id="game_reward_tips">Tips：</span><span id="gameAnswer"></span></div>
-    </div>
-    <div id="game_c">
-        <div id="game_control">
-            <span id="btn">开始</span>
-            <span id="level">level: 3x3</span>
-            <span id="scroe">步数：0</span>
-        </div>
-        <div id="game_result"><span>show</span></div>
-    </div>
-    <!--中间游戏部分结束-->
-    <!--底部tab栏-->
-    <div id="game_footer">
-        <ul id="img_list">
-            <!--<li class="select"><img src="../img/man.jpg"></li>
-            <li><img src="../img/man.jpg"></li>
-            <li><img src="../img/man.jpg"></li>
-            <li><img src="../img/man.jpg"></li>-->
-            <li id="loading"><img src="img/loading.png"></li>
-        </ul>
-    </div>
-    <!--底部tab栏结束-->
+    <div id="game_result"><span>show</span></div>
+</div>
+<!--中间游戏部分结束-->
+<!--底部tab栏-->
+<div id="game_footer">
+    <ul id="img_list">
+        <li class="select"><img src="./img/img1.jpg" class='imgcontent'></li>
+        <li><img src="./img/img2.jpg" class='imgcontent'></li>
+        <li><img src="./img/img3.jpg" class='imgcontent'></li>
+        <li><img src="./img/img4.jpg" class='imgcontent'></li>
+        <li><img src="./img/img5.jpg" class='imgcontent'></li>
+        <li><img src="./img/img6.jpg" class='imgcontent'></li>
+    </ul>
+</div>
+<!--底部tab栏结束-->
 </body>
 </html>
