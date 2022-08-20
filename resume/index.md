@@ -33,7 +33,7 @@ HTML / JavaScript / Nodejs / CSS / Vue / Webpack / React / Java / Android / Git 
 ### WORK EXPERIENCE
 
 **TRUELITE TRACE (SHENZHEN) INC LIMITED**
-<div style="display: flex;justify-content: space-between"><span>Front-end Development</span><span>10/2019 – present</span></div>
+<div style="display: flex;justify-content: space-between"><span>Front-end Development</span><span>10/2019 – 08/2022</span></div>
 
 * Optimized the performance, improved the rendering speed of the website, and reduced the rendering time of the page by 60%.
 * Use Vue to rewrite the FleetUp Management Platform system, which will significantly improve the user experience.
