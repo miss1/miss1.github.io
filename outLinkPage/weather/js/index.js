@@ -4,13 +4,13 @@
 /*documentWidth = window.screen.availWidth;
 documentHeight = window.screen.availHeight;*/
 
-var city;
+var city = "北京";
 var weatherInfo;
 
 $(document).ready(function () {
     preperForMobile();
     init();
-    getLocation();
+    queryWeather();
 });
 
 //自适应手机
@@ -33,50 +33,6 @@ function preperForMobile() {
         $("#citylist").css('width', documentWidth - 120);
         $("#citylist").css('right', 65);
     }
-}
-
-//定位获取当前位置信息
-function getLocation() {
-    //实例化城市查询类
-    var citysearch = new AMap.CitySearch();
-    //自动获取用户IP，返回当前城市
-    citysearch.getLocalCity(function(status, result) {
-        console.log(result)
-        if (status === 'complete' && result.info === 'OK') {
-            if (result && result.city) {
-                console.log('个数：'+localStorage.length);
-                if (localStorage.length > 1){
-                    //当前定位城市与存储的所在城市不同，则更新当前城市
-                    if (localStorage.getItem('0') != result.city){
-                        if (localStorage.getItem(result.city) != undefined){
-                            localStorage.setItem(localStorage.getItem('0'), localStorage.getItem('0'));
-                            localStorage.setItem('0', result.city);
-                            localStorage.removeItem(result.city);
-                        }else {
-                            localStorage.setItem(localStorage.getItem('0'), localStorage.getItem('0'));
-                            localStorage.setItem('0', result.city);
-                        }
-                    }
-                }else {
-                    localStorage.setItem('0', result.city);
-                }
-                //localStorage.clear();
-                city = result.city;
-                queryWeather();
-                console.log('您当前所在城市：'+city);
-            }
-        } else {
-            if (localStorage.length > 1){
-                city = localStorage.getItem('0');
-            }else {
-                localStorage.setItem('0', '北京');
-                city = "北京";
-            }
-            queryWeather();
-            console.log(result.info);
-        }
-        $("#cityname").text(city);
-    });
 }
 
 //点击事件
@@ -213,7 +169,7 @@ function updateView(x) {
 function updateCityNum() {
     var cityHtml = '';
     for (var i = 0; i < localStorage.length; i++){
-        if (localStorage.key(i).length < 5 && localStorage.key(i) != "null"){     //过滤掉地图以及bmob的信息
+        if (localStorage.key(i) != "null"){     //过滤掉地图以及bmob的信息
             cityHtml += "<span>" + localStorage.getItem(localStorage.key(i)) + "</span>"
         }
     }
