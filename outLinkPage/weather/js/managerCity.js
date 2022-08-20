@@ -44,7 +44,6 @@ function init() {
 //获取所有已添加城市的天气
 function loadAllWeather() {
     for (var i = 0; i < localStorage.length; i++){
-        console.log(localStorage.getItem(localStorage.key(i)));
         if (localStorage.key(i) && localStorage.key(i).indexOf('_AMap') !== 0){
             queryWeather(localStorage.getItem(localStorage.key(i)), i)
         }

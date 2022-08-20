@@ -41,6 +41,7 @@ function getLocation() {
     var citysearch = new AMap.CitySearch();
     //自动获取用户IP，返回当前城市
     citysearch.getLocalCity(function(status, result) {
+        console.log(result)
         if (status === 'complete' && result.info === 'OK') {
             if (result && result.city) {
                 console.log('个数：'+localStorage.length);
@@ -137,6 +138,7 @@ function init() {
 //查询未来七天天气
 function queryWeather() {
     console.log(SERVER_URL);
+    if (!city) city = "北京";
     $.ajax({
         type:'get',
         url:SERVER_URL + PATH_FORECAST + '?city=' + city + "&key=" + KEY,
@@ -193,6 +195,7 @@ function updateTab() {
 //更新界面显示信息
 function updateView(x) {
     var forecastInfo = weatherInfo.HeWeather5[0].daily_forecast[x];
+    if (!forecastInfo) return;
     if ( x == 0 ){
         $("#txt_d").text("今天：" + forecastInfo.cond.txt_d);
     }else if (x == 1){
@@ -210,7 +213,6 @@ function updateView(x) {
 function updateCityNum() {
     var cityHtml = '';
     for (var i = 0; i < localStorage.length; i++){
-        console.log("size:"+localStorage.key(i).length);
         if (localStorage.key(i).length < 5 && localStorage.key(i) != "null"){     //过滤掉地图以及bmob的信息
             cityHtml += "<span>" + localStorage.getItem(localStorage.key(i)) + "</span>"
         }
