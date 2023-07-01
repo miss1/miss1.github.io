@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Whidbey Island"
+color: rgb(255,90,90)
+cover: '../assets/test.png'
+location: 'Seattle, WA'
+---
+
+> Weekend, one day trip.
+
+### 携带物品
+* 野餐垫
+* 零食
+* 拖鞋
+* 饮料
+* orca card
+
+### 路线
+Home -> Mukilteo Ferry Ramp
+* time: 36min
+
+Mukilteo Ferry -> 上岛
+* time: 20min
+* ferry, 6am开始，半小时一班
+* ferry票价：车$12.8 + 每乘客$5.8
+* 下船之后到达Clinton
+* 从Deception Pass开车回家，time: 1h30min
+
+### Trip
+* Clinton
+* Langley 小镇; Sprinklz冰淇淋
+* Fort Casey State Park: 油菜花，城堡，灯塔
+* Ebey's Landing, Bluff Trail
+* Windjammer Park：类似于市民广场，picnic， 戏水。（位于Oak harbor, 有时间也可以逛逛这个城市）
+* Deception Pass State Park。桥下停车步行上桥。停车需要pass, 没有的话$10一次，也可以停在停车场外边的路上
+* 从Oak harbor去Deception Pass的路上可能会路过The Farm Stand。冰淇淋，Waffle Cone(Huckleberry口味)
+* shrimp shack, 网红餐车，海鲜，炸生蚝和Clam Chowder; 18:00关门
+
+

@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Vashon Island"
+color: rgb(255,90,90)
+cover: '../assets/test.png'
+location: 'Seattle, WA'
+---
+
+> Weekend, one day trip.
+
+### 路线
+* Home -> Fauntleroy ferry, 45min
+* Fauntleroy -> Vashon, 15min
+* Tahlequah ferry -> Point Defiance, 15min
+* Point Defiance -> Home, 1h
+* ferry 往返两人一车$28
+![ferry](../../../assets/vashon/ferry.png)
+
+
+### 游玩
+下船沿着Vashon HWY SW 主干道往南走
+
