@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "July 4th"
+color: rgb(255,90,90)
+cover: '../assets/test.png'
+location: 'Bellevue, WA'
+---
+
+> July 4th celebration
+
+### Kirkland parade
+
+Schedule
+* 10:30 AM, Kids Pavilion
+* 11:30 AM, Kids Parade
+* 12:00 PM, Main Parade
+
+Parking
+* Kirkland library parking
+
+[Detail](https://www.kirklandwa.gov/Government/Departments/Parks-and-Community-Services/Register-for-a-Recreation-Program/Celebrate-Kirkland)
+
+### Fireworks Show
+
+Place: Bellevue Downtown Park
+
+Schedule
+
+Family Fun Zone
+* 5:00PM, Family entertainment, kids area, and more!
+
+Amazon Entertainment Plaza
+* 5:00PM, Lady A, Blues/Soul
+* 7:00PM, Laurel Canyon Legacy, Folk/Rock
+* 9:15PM, Bellevue Youth Symphony Orchestra pre-fireworks performance
+* 9:50PM, Bellevue Honor Guard, Presentation of Colors Ceremony
+* 10:00 PM, A rendition of The National Anthem by Newport High School alumni Sarah Rose Davis
+
+Fireworks Show
+* 10:05PM, The Eastside's most spectacular fireworks show synchronized to a live performance by Bellevue Youth Symphony Orchestra
+* 10:30, Bellevue Youth Symphony Orchestra post-fireworks performance
+
+Parking
+* Free parking available after 5 p.m. at The Bellevue Collection properties (Bellevue Square, Lincoln Square North, Lincoln Square South and Bellevue Place).
+
+[Detail](https://www.bellevuedowntown.com/events/family-4th)
