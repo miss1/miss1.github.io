@@ -1,0 +1,9 @@
+{% if page.color.size==0 or page.color==nil %}
+<div style="background-color:#9A85FF; padding: 10px 20px; font-size: 18px; display: flex; justify-content: flex-end">
+    <a href="/notes" style="cursor:pointer; color: white;">List</a>
+</div>
+{% else %}
+<div style="background-color:{{ page.color }}; padding: 10px 20px; font-size: 18px; display: flex; justify-content: flex-end">
+    <a href="/notes" style="cursor:pointer; color: white;">List</a>
+</div>
+{% endif %}
