@@ -9,8 +9,8 @@ location: 'Leavenworth, WA'
 > Weekend, one day trip. 07/08/2023
 
 ### 路线
-* 北线：Bellevue -> 1h12min -> Maloney Creek Interpretive Trail(8min走完) -> 46min -> Lake Wenatchee state park -> 25min -> 小镇
-* 南线: 
+* 北线：Bellevue -- 1h12min -- Maloney Creek Interpretive Trail(15min走完) -- 47min -- Lake Wenatchee -- 30min -- 小镇
+* 南线: I90E
 
 
 ### Leavenworth Reindeer Farm
@@ -24,8 +24,31 @@ location: 'Leavenworth, WA'
 
 ### Leavenworth小镇
 * Front street, 沿着Front street漫步直达front street park
-* Nutcracker Museum(胡桃夹子博物馆), front street park旁边。11:00 - 17:00
+* Nutcracker Museum(胡桃夹子博物馆), 门票$5。11:00 - 17:00
 * 整个小镇预计一个小时就能逛完
+* waterfront park trail, 免费停车
+
+### 美食
+Adreas Keller Restaurant
+* 网红店，可能要排队
+* 脆皮猪肘，有些人说有一股很重的猪骚味
+* 不能外带食物
+* 黑啤
+
+Ludwig's
+* 也有猪肘
+* 香肠拼盘
+* 匈牙利牛肉汤
+* 酸菜？
+* 每周六有音乐表演
+
+Whistlepunk Ice Cream (冰淇淋)
+
+Bushel & Bee tap room (喝cider)
+
+J5 coffee, 咖啡店
+
+### optional
 
 ### Stutzman Ranch摘樱桃
 * 看时间，有时间并且时间合适的话可以去
@@ -40,24 +63,11 @@ location: 'Leavenworth, WA'
 | Apples/Pears | .85/lb |
 | Table Grapes/Asian Pears & Pluots | 1.75/lb |
 
+[官网](http://www.thestutzmanranch.com/Home.aspx)
+
 ### Lake Wenatchee State Park
 * 位于北边路线，从西雅图出发走北边路线的话会先经过这里，然后再开25min到达小镇
 * one-day pass, $10
 * Lake loop trail, 全程不到一个小时，pet friendly
 * 南边营地可以租赁kayak
 * 骑马，露营，picnic
-
-### 美食
-Adreas Keller Restaurant
-* 网红店，可能要排队
-* 脆皮猪肘，有些人说有一股很重的猪骚味
-* 不能外带食物
-* 黑啤
-
-Whistlepunk Ice Cream
-
-Ludwig
-* 也有猪肘
-* 香肠拼盘
-* 匈牙利牛肉汤
-* 酸菜？
