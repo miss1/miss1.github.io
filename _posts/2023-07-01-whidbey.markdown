@@ -6,7 +6,7 @@ cover: '../assets/test.png'
 location: 'Seattle, WA'
 ---
 
-> Weekend, one day trip.
+> Weekend, one day trip. 07/01/2023
 
 ### 携带物品
 * 野餐垫

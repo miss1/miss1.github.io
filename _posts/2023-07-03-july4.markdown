@@ -6,7 +6,7 @@ cover: '../assets/test.png'
 location: 'Bellevue, WA'
 ---
 
-> July 4th celebration
+> July 4th celebration. 07/04/2023
 
 ### Kirkland parade
 
