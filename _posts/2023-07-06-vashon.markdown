@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Vashon Island"
+color: rgb(255,90,90)
+cover: '../assets/test.png'
+location: 'Seattle, WA'
+---
+
+> Weekend, one day trip. 07/08/2023
+
+### 路线
+* Home -> Alki Beach Park -> Fauntleroy ferry -> Vashon -> Tahlequah ferry -> Point Defiance
+* ferry 往返车+司机：$27.25，Adult Passenger：$6.25
+  ![ferry](../../../assets/vashon/ferry.png)
+
+### Alki Beach Park
+* picnic, 早午餐
+* 沙滩，自由女神像
+
+### Vashon
+* 下船沿着Vashon HWY SW 主干道往南走
+* Fence of Doors
+* Old bicycle in the tree
+* Point Robinson Lighthouse
+* Maury Island Marine Park, Maury Island Viewpoint Trail: 1.9mile
+
+### Point Defiance
+* Stairs and Slides
+* Dune Peninsula at Point Defiance Park(拍雪山，停车免费)
+
+### Dinner
+So Moon Nan Jib

@@ -6,7 +6,7 @@ cover: '../assets/test.png'
 location: 'Leavenworth, WA'
 ---
 
-> Weekend, one day trip. 07/08/2023
+> Weekend, one day trip. 
 
 ### 路线
 * 北线：Bellevue -- 1h12min -- Maloney Creek Interpretive Trail(15min走完) -- 47min -- Lake Wenatchee -- 30min -- 小镇
