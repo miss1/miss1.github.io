@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Edmonds 小镇"
+color: rgb(255,90,90)
+cover: '../assets/test.png'
+location: 'Edmonds, WA'
+---
+
+> Weekend, one day trip. 2023/09/10
+
+### 活动
+
+2023 Edmonds Classic Car and Motorcycle Show
+* free to the public to attend
+* Time: Noon-6 p.m.
+* Place: downtown
+* [Detail](https://myedmondsnews.com/2023/09/2023-edmonds-classic-car-motorcycle-show-what-you-need-to-know/)
+
+jellycat 玩具店
+* 420 Main St
+* Teri's Toy
+
+Olympic Beach
+
+Marina Beach Park
+* 沙滩，草地，可以picnic，日落
+
+Market Edmonds 网红龙虾卷
+* 好像可以网上提前订餐
