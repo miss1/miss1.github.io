@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Camano Island"
+color: rgb(255,90,90)
+cover: '../assets/test.png'
+location: 'Seattle, WA'
+---
+
+> Weekend, one day trip. 
+
+### 路线
+
+Freedom Park
+* 大型露天艺术展(建筑物)
+* 社区游乐场(儿童乐)
+
+Iverson trail Preserve
+* beach, 风景不错
+* Hobbit Trail: 1.2-mile loop trail. it takes an average of 22 min to complete
+* Trail沿路上散落了各种霍比特小人玩偶, 红色的蜕皮的树
+
+Cama Beach Historical State Park
+* require Discover Pass
+* 鹅卵石海滩
+* Cabins
+* 风筝
+
+Camano Island State Park
+
+
+Matzke Fine Art and Design
+* Friday, Saturday, Sunday 11:00 - 17:00
+* Sculpture garden, Free
+
+Mabana Beach
+* 细沙滩
+* 日落
+
+
