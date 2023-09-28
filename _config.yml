@@ -13,8 +13,8 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 # 博主
 author: true
 name: 'Liling Yang'
-NickName: 'Lynn'
-webtitle: 'Lynn'
+NickName: 'Liling'
+webtitle: 'Liling'
 bio: 'yes!'
 about: true
 aboutyou: 'Hey, this is Lynn! I''m a front-end developer before. Now I''m studying at Seattle University in Computer Science for my Master''s degree. I am interested in algorithms and data structures now.'
@@ -22,9 +22,10 @@ portraits: '/assets/profile.jpg' # your portraits image file path
 
 # SNS
 SNS: true
-SNS-icon: #['github']
+SNS-icon: #['mail', 'github', 'linkedin']
   mail: 'mailto:yangll2525@163.com'
   github: 'https://github.com/miss1'
+  linkedin: 'https://www.linkedin.com/in/liling-yang'
 
 # since
 footer:
