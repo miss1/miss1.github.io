@@ -22,10 +22,11 @@ portraits: '/assets/profile.jpg' # your portraits image file path
 
 # SNS
 SNS: true
-SNS-icon: #['mail', 'github', 'linkedin']
+SNS-icon: #['mail', 'github', 'linkedin', 'leetcode']
   mail: 'mailto:yangll2525@163.com'
   github: 'https://github.com/miss1'
   linkedin: 'https://www.linkedin.com/in/liling-yang'
+  leetcode: 'https://leetcode.com/miss1/'
 
 # since
 footer:
