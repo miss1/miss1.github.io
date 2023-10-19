@@ -45,7 +45,7 @@ pygmentsTheme: 'default'
 codeDemo:
   My LeetCode: ['https://github.com/miss1/leetcode-7', 'My problem solving record in Leetcode']
   Puzzle: ['https://github.com/miss1/puzzle', 'Implementing a Jigsaw Puzzles Game with Html5', '/puzzle']
-  HappyWeatherH5: ['https://github.com/miss1/HappyWeatherH5', 'Weather forecast (mobile web)', '/outLinkPage/weather/html/index.html']
+  HappyWeatherH5: ['https://github.com/miss1/HappyWeatherH5', 'Weather forecast (mobile web)', '/HappyWeatherH5']
   HappyWeatherAndroid: ['https://github.com/miss1/HappyWeather', 'Weather forecast (android)']
 
 # Share : weibo, qq, wechat, tencent, douban, qzone, linkedin, diandian, facebook, twitter, google
