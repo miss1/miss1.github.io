@@ -11,14 +11,18 @@ description:
 <main>
     {% include title.html %}
     <ul class="ex-list">
-      {% for demo in site.codeDemo %}
+      {% for demo in site.data.codes %}
         <li  class="fadeInUp animated">
-            <span class="tag-name" ><a href="{{ demo[1][0] }}" target="_blank">「&emsp;{{ demo[0] }}&emsp;」</a></span>
+            <span class="tag-name" ><a href="{{ demo.url }}" target="_blank">「&emsp;{{ demo.title }}&emsp;」</a></span>
             </br>
-            <span>{{demo[1][1]}}</span>
-            {% if demo[1][2] %}
+            <span>{{demo.des}}</span>
             </br>
-            <span class="tag-link"><a href="{{demo[1][2]}}" target="_blank">∞ Preview ∞</a></span>
+            {% if demo.preView %}
+            <span class="tag-link"><a href="{{demo.preView}}" target="_blank">∞ Preview ∞</a></span>
+            {% endif %}
+            {% if demo.tech %}
+            </br>
+            <span>Tech stack: {{demo.tech}}</span>
             {% endif %}
         </li>
       {% endfor %}

@@ -2,31 +2,34 @@
   {
     "title": "Seattle University",
     "dateStart": "2022-09-21 08:30:00 +0800",
-    "dateEnd": "2024-06-01 08:30:00 +0800",
-    "content": "Computer Science"
+    "dateEnd": "2024-03-20 08:30:00 +0800",
+    "content": "Major: Computer Science"
   },
   {
-    "title": "TRUELITE TRACE (SHENZHEN) INC LIMITED",
+    "title": "FleetUp",
     "dateStart": "2019-10-01 08:30:00 +0800",
     "dateEnd": "2022-08-31 08:30:00 +0800",
-    "content": "Front-end Development Engineer"
+    "content": "Title: Software engineer",
+    "url": "https://fleetup.com/"
   },
   {
-    "title": "STRANGE UNIVERSE TECHNOLOGY (SHENZHEN) INC LIMITED",
+    "title": "Strange Universe",
     "dateStart": "2018-07-20 09:30:00 +0800",
     "dateEnd": "2019-08-20 18:30:00 +0800",
-    "content": "H5 Development Engineer"
+    "content": "Title: Full Stack Engineer",
+    "url": "https://www.strangeuniverse.com/"
   },
   {
-    "title": "HAINAN CIVIL AVIATION CARES INC LIMITED",
+    "title": "Hainan civil aviation cares",
     "dateStart": "2016-12-01 08:30:00 +0800",
     "dateEnd": "2018-06-30 17:30:00 +0800",
-    "content": "Front-end Development Engineer"
+    "content": "Title: Front-end Engineer",
+    "url": "https://h.hnair.com/hainanair/HotelTRPH5/template/hotelTicket.html"
   },
   {
     "title": "Hainan Normal University",
     "dateStart": "2013-09-01 08:30:00 +0800",
     "dateEnd": "2017-07-01 17:30:00 +0800",
-    "content": "Software Engineering"
+    "content": "Major: Software Engineering"
   }
 ]

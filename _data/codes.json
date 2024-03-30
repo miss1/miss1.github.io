@@ -1,0 +1,28 @@
+[
+  {
+    "title": "My LeetCode",
+    "des": "My problem solving record in Leetcode",
+    "url": "https://github.com/miss1/leetcode-7",
+    "tech": "JavaScript, Algorithm"
+  },
+  {
+    "title": "Puzzle",
+    "des": "Implementing a Jigsaw Puzzles Game with Html5",
+    "url": "https://github.com/miss1/puzzle",
+    "preView": "/puzzle",
+    "tech": "HTML5, CSS3, JavaScript, JQuery"
+  },
+  {
+    "title": "HappyWeatherH5",
+    "des": "Weather forecast (mobile web)",
+    "url": "https://github.com/miss1/HappyWeatherH5",
+    "preView": "/HappyWeatherH5",
+    "tech": "HTML5, CSS3, JavaScript, JQuery, Ajax"
+  },
+  {
+    "title": "HappyWeatherAndroid",
+    "des": "Weather forecast (android)",
+    "url": "https://github.com/miss1/HappyWeather",
+    "tech": "Android, Android Studio"
+  }
+]

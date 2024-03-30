@@ -17,7 +17,9 @@ NickName: 'Liling'
 webtitle: 'Liling'
 bio: 'yes!'
 about: true
-aboutyou: 'Hey, this is Lynn! I''m a front-end developer before. Now I''m studying at Seattle University in Computer Science for my Master''s degree. I am interested in algorithms and data structures now.'
+aboutyou: 'Hey, this is Lynn! I''m a software engineer. Recently, I earned my master''s degree in computer science 
+and am looking forward to starting a new journey in my career. I enjoy hiking and playing video games. 
+If you think that Zelda: Breath of the Wild is one of the best games in the world, then you are my friend~'
 portraits: '/assets/profile.jpg' # your portraits image file path
 
 # SNS
@@ -40,13 +42,6 @@ kramdown:
 highlighter: rouge
 # 代码高亮主题使用pygments主题: autumn\ default\ emacs\ friendly\ manni\ murphy\ pastie\ perldoc\ tango 任选一个你喜欢的主题名称填在下面的单引号中
 pygmentsTheme: 'default'
-
-# Code Demo
-codeDemo:
-  My LeetCode: ['https://github.com/miss1/leetcode-7', 'My problem solving record in Leetcode']
-  Puzzle: ['https://github.com/miss1/puzzle', 'Implementing a Jigsaw Puzzles Game with Html5', '/puzzle']
-  HappyWeatherH5: ['https://github.com/miss1/HappyWeatherH5', 'Weather forecast (mobile web)', '/HappyWeatherH5']
-  HappyWeatherAndroid: ['https://github.com/miss1/HappyWeather', 'Weather forecast (android)']
 
 # Share : weibo, qq, wechat, tencent, douban, qzone, linkedin, diandian, facebook, twitter, google
 # social-share: true
