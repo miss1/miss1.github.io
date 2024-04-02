@@ -6,11 +6,24 @@
     "tech": "JavaScript, Algorithm"
   },
   {
+    "title": "Zero Player Game",
+    "des": "Implementing some zero-player game",
+    "url": "https://miss1.github.io/Zero-player-Game/#/",
+    "preView": "/Zero-player-Game",
+    "tech": "VUE3, CSS3, JavaScript, Vite"
+  },
+  {
     "title": "Puzzle",
     "des": "Implementing a Jigsaw Puzzles Game with Html5",
     "url": "https://github.com/miss1/puzzle",
     "preView": "/puzzle",
     "tech": "HTML5, CSS3, JavaScript, JQuery"
+  },
+  {
+    "title": "Bounty romance",
+    "des": "a dating app developed by Flutter and Firebase",
+    "url": "https://github.com/miss1/bounty_romance",
+    "tech": "Flutter, Dart, Firebase, Mockito"
   },
   {
     "title": "HappyWeatherH5",
