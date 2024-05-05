@@ -1028,6 +1028,11 @@ a{
 /*.timemain:hover{
   color: #eaa121;
 }*/
+.ex-tech {
+    font-size: 14px;
+    margin-top: 5px;
+    color: darkgray;
+}
 .timefont{
   color: #555;
   line-height: 40px;
@@ -1038,6 +1043,13 @@ a{
 }
 
 /*移动端显示*/
+.ex-tech-mobile {
+    font-size: 14px;
+    color: white;
+    font-weight: normal;
+    padding: 10px 0;
+}
+
 .timeANDname{
   display: inline-block;
   width: 260px;

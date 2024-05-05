@@ -17,9 +17,10 @@ NickName: 'Liling'
 webtitle: 'Liling'
 bio: 'yes!'
 about: true
-aboutyou: 'Hey, this is Lynn! I''m a software engineer. Recently, I earned my master''s degree in computer science 
-and am looking forward to starting a new journey in my career. I enjoy hiking and playing video games. 
-If you think that Zelda: Breath of the Wild is one of the best games in the world, then you are my friend~'
+aboutyou: 'Hey, this is Liling! I''m a software engineer. Recently, I earned my master''s degree in computer science 
+and am looking forward to starting a new journey in my career.'
+interest1: 'I enjoy hiking and playing video games. If you think that Zelda: Breath of the Wild is one of the best games in the world, then you are my friend~'
+interest2: 'If you play Animal Crossing, welcome to visit my island: DA-7213-8641-4226'
 portraits: '/assets/profile.jpg' # your portraits image file path
 
 # SNS

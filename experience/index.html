@@ -26,11 +26,15 @@ description:
               </p>
             </div>
             <div class="right-name">
-              <p onmouseover="this.children[0].style.borderRight='8px solid rgb(154,133,255)'; this.children[1].style.backgroundColor='rgb(154,133,255)';this.children[1].children[0].style.color='white';this.children[1].children[1].style.color='white';this.children[1].children[0].style.fontWeight='bold';" onmouseout="this.children[0].style.borderRight='8px solid #f4f4f4'; this.children[1].style.backgroundColor='#f4f4f4';this.children[1].children[0].style.color='#555';this.children[1].children[1].style.color='#555';this.children[1].children[0].style.fontWeight='normal';">
+              <p onmouseover="this.children[0].style.borderRight='8px solid rgb(154,133,255)'; this.children[1].style.backgroundColor='rgb(154,133,255)';this.children[1].children[0].style.color='white';this.children[1].children[1].style.color='white';this.children[1].children[2].style.color='white';this.children[1].children[0].style.fontWeight='bold';"
+                 onmouseout="this.children[0].style.borderRight='8px solid #f4f4f4'; this.children[1].style.backgroundColor='#f4f4f4';this.children[1].children[0].style.color='#555';this.children[1].children[1].style.color='#555';this.children[1].children[2].style.color='darkgray';this.children[1].children[0].style.fontWeight='normal';">
                 <span class="lefttime-san"></span>
                 <span class="lefttime-main">
                   <sapn class="timemain">{{ post.title }}</sapn>
                   <span class="timemain" style="margin-top: 5px">({{ post.content }})</span>
+                  {% if post.tech %}
+                  <span class="timemain ex-tech">Tech stack: {{post.tech}}</span>
+                  {% endif %}
                   {% if post.url %}
                   <span class="time-link"><a href="{{post.url}}" target="_blank">∞ Main Project ∞</a></span>
                   {% endif %}
@@ -51,6 +55,9 @@ description:
                   <time class="timeline-data" datetime="{{ post.dateStart | date:'%y-%m' }}">{{ post.dateStart | date: "%Y-%m" }}&nbsp;-&nbsp;{{ post.dateEnd | date: "%Y-%m" }}</time>
                   {% else %}
                   <time class="timeline-data" datetime="{{ post.dateStart | date:'%y-%m' }}">{{ post.dateStart | date: "%Y-%m" }}&nbsp;-&nbsp;present</time>
+                  {% endif %}
+                  {% if post.tech %}
+                  <span class="ex-tech-mobile">Tech stack: {{post.tech}}</span>
                   {% endif %}
                   {% if post.url %}
                   <a style="display: block; margin-top: 6px; font-size: 14px; color: white; text-align: center" href="{{post.url}}" target="_blank">∞ Main Project ∞</a>
