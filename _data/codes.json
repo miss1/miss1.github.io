@@ -16,13 +16,13 @@
     "title": "E-commerce-website",
     "des": "A full stack project for selling and buying goods",
     "url": "https://github.com/miss1/E-commerce-website",
-    "tech": "Nodejs, ExpressJS, MongoDB, RESTful, React, Redux, Tailwind CSS, Responsive design"
+    "tech": "Nodejs, ExpressJS, MongoDB, RESTful, TypeScript, React, Redux, Tailwind CSS, Responsive design"
   },
   {
     "title": "Employee Management System",
     "des": "A full stack project for maintain employee information and documents",
     "url": "https://github.com/miss1/Employee-Management",
-    "tech": "Nodejs, ExpressJS, MongoDB, GraphQL, Apollo GraphQL, React, Redux, Ant Design, React Hook Form, Firebase"
+    "tech": "Nodejs, ExpressJS, MongoDB, GraphQL, Apollo GraphQL, TypeScript, React, Redux, Ant Design, React Hook Form, Firebase"
   },
   {
     "title": "Zero Player Game",
