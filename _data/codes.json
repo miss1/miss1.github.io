@@ -6,6 +6,25 @@
     "tech": "JavaScript, Algorithm"
   },
   {
+    "title": "Puzzle",
+    "des": "Implementing a Jigsaw Puzzles Game with Html5",
+    "url": "https://github.com/miss1/puzzle",
+    "preView": "/puzzle",
+    "tech": "HTML5, CSS3, JavaScript, JQuery"
+  },
+  {
+    "title": "E-commerce-website",
+    "des": "A full stack project for selling and buying goods",
+    "url": "https://github.com/miss1/E-commerce-website",
+    "tech": "Nodejs, ExpressJS, MongoDB, RESTful, React, Redux, Tailwind CSS, Responsive design"
+  },
+  {
+    "title": "Employee Management System",
+    "des": "A full stack project for maintain employee information and documents",
+    "url": "https://github.com/miss1/Employee-Management",
+    "tech": "Nodejs, ExpressJS, MongoDB, GraphQL, Apollo GraphQL, React, Redux, Ant Design, React Hook Form, Firebase"
+  },
+  {
     "title": "Zero Player Game",
     "des": "Implementing some zero-player game",
     "url": "https://miss1.github.io/Zero-player-Game/#/",
@@ -13,11 +32,11 @@
     "tech": "VUE3, CSS3, JavaScript, Vite"
   },
   {
-    "title": "Puzzle",
-    "des": "Implementing a Jigsaw Puzzles Game with Html5",
-    "url": "https://github.com/miss1/puzzle",
-    "preView": "/puzzle",
-    "tech": "HTML5, CSS3, JavaScript, JQuery"
+    "title": "Responsive page",
+    "des": "A responsive page created by bootstrap",
+    "url": "https://github.com/miss1/responsive-page",
+    "preView": "/responsive-page",
+    "tech": "HTML, CSS, Bootstrap"
   },
   {
     "title": "Bounty romance",
