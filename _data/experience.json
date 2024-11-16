@@ -14,17 +14,9 @@
     "url": "https://fleetup.com/"
   },
   {
-    "title": "Strange Universe",
-    "dateStart": "2018-07-20 09:30:00 +0800",
-    "dateEnd": "2019-08-20 18:30:00 +0800",
-    "content": "Title: Full Stack Engineer",
-    "tech": "React, Material-ui, Bootstrap, JavaScript, HTML5, CSS3, Android, Webview, Three.js, Krpano",
-    "url": "https://www.strangeuniverse.com/"
-  },
-  {
-    "title": "Hainan civil aviation cares",
+    "title": "TravelSky Technology",
     "dateStart": "2016-12-01 08:30:00 +0800",
-    "dateEnd": "2018-06-30 17:30:00 +0800",
+    "dateEnd": "2018-07-30 17:30:00 +0800",
     "content": "Title: Front-end Engineer",
     "tech": "JQuery, Zepto.js, Knockout.js, SUI Mobile, JavaScript, HTML5, CSS3",
     "url": "https://h.hnair.com/hainanair/HotelTRPH5/template/hotelTicket.html"
