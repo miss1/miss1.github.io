@@ -1,0 +1,134 @@
+---
+layout: post
+title:  "Hawaii"
+color: rgb(255,90,90)
+cover: '../assets/test.png'
+location: 'Hawaii'
+---
+
+> 七天六晚
+
+### 机票
+* 09/07. from home fly to Honolulu airport(HNL)
+* 09/13. form Kona airport(KOA) to home
+
+### 酒店
+Hyatt Place Waikiki Beach
+* 09/07 15:00 ~ 09/10 11:00
+
+Grand Naniloa Hotel Hilo
+* 09/10 ~ 09/12
+
+### 09/07
+
+出发
+* 时间待定
+* 机票待定
+
+### 09/08 (1)
+古兰牧场骑马
+* 具体计划之后完善
+* 这里可以玩一天，不用租车
+* 如果条件允许浮潜，则取消这一项去大岛骑马
+
+Tantalus Lookout (option)
+* 从酒店开过去20min，可以晚上去看夕阳
+* 随便挑一天就行
+
+### 09/09 (2)
+欧胡岛大环线 - 2h50min
+
+Dole 植物园
+* 从酒店开车40min，停车免费
+* open daily from 9:30 a.m. to 5:30 p.m. Monday through Sunday
+* 不需要门票。可选小火车（$15），迷宫（$10）, Garden tour（$8.5）,现场买票
+* 预计3h游完
+* [Detail](https://www.doleplantation.com/)
+
+Dole 植物园 往北，沿着海岸线一直到Sunset Beach
+* Papailoa Beach, 大概率能看到海龟
+* Waimea bay
+* Sunset Beach， 百岁椰子树
+* 沿海开车，都是海滩，见机行事，基本都有免费停车
+
+Kahuku小镇
+* 可以逛一逛
+* Giovanni Shrimp truck(蒜香虾饭，网红店，不一定要吃)
+
+平等院
+* 日本寺庙， 门票$7， 16:30关门
+* 张学良墓
+
+### 09/10 (3)
+欧胡岛小环线（全程1h50min）
+
+Lanai Lookout
+* 海岸
+
+Halona Blowwhole Lookout
+* 喷泉口，海浪像喷泉
+
+Makapuʻu lighthouse
+* 从酒店开车到这里30min
+* trail， 2.5mi, 来回1h12min
+* 果冻海
+
+Lanikai Beach
+* 从Makapuʻu lighthouse开车28min
+* 这个Beach适合浮潜
+* 车位比较少，可以导航到Boat ramp停车
+
+Kailua Beach
+* 开车9min
+* 开回酒店半小时
+
+PS
+* 如果条件允许浮潜，可以把这一天的行程挪到第一天，先去Lanikai Beach浮潜，再小环线回酒店。这一天上午直接飞大岛，下午去大岛骑马
+* 如果不浮潜，则按当前顺序，下午五六点飞大岛
+* 珍珠港的话可以看某一天的空闲
+
+### 09/11 (4)
+Hilo小镇
+* Rainbow Falls, 酒店开车过去10min
+
+Mauna Kea
+* 看星星，酒店开过去50min到visit center
+* 出发前关注天气预报，山顶晴风景会更好
+* 一定要四驱车，并且到达visit center时剩下至少半箱油，有工作人员检查
+* visit center到山顶开40min，风大很冷
+* 待完善
+
+### 09/12 (5)
+Hawai‘i Volcanoes National Park
+* 火山，$30一车
+* Kilauea visit center - 40min
+* national park services app
+* 待完善
+
+### 09/13 (6)
+
+回家
+* 时间待定
+* 机票待定
+
+### 浮潜
+Hanauma Bay - 恐龙湾浮潜
+* Park entry fee 25$ + Parking $3, 需要提前48h订票，7am放票
+* closed every Monday & Tuesday
+* opens at 6:45am and Closes at 4pm. No entry after 1:30 pm
+* 自己租浮潜设备（$25 ~ $45）
+* or 浮潜tour, 包含门票，浮潜设备，guide（2h）$120/person
+* [Detail](https://hanaumabaystatepark.com/)
+
+Waianae Harbor - dolphins and you
+* $135/person + Wetsuit Rental $10(optional) + 拍照 $79(optional)
+* 坐船出海，Dolphin Viewing + Turtle Snorkeling + Lunch & Beverages
+* 浮潜 + 浆板
+* 一共3h，可选两个时间 8am或12pm
+* [Detail](https://dolphinsandyou.com/schedule)
+
+
+### 待补充
+* 停车
+* 吃
+

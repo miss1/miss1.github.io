@@ -23,6 +23,9 @@ location: 'Las Vegas, NV'
 * HGVClub on the Boulevard - 2650 South Las Vegas Blvd, Las Vegas, NV 89109
 * 10/12/2023 12:00 PM
 
+[map](https://www.google.com/maps/d/edit?hl=zh-CN&mid=1bVS87qF5emV6nIzeHDq6OfA_3sbV-Lo&ll=36.113385456471434%2C-115.16679343293116&z=14)
+
+
 ### 10/11
 
 出发
